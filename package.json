@@ -1,0 +1,17 @@
+{
+    "name": "@game-soft/gameboy-advance",
+    "version": "0.1.0",
+    "main": "lib/main.js",
+    "description": "NINTENDO GameBoy Advance soft list of release dates",
+    "files": [
+        "README.md",
+        "lib/",
+        "data/soft_list.js"
+    ],
+    "repository": "game-soft/gameboy-advance",
+    "author": "daisuke.takayama",
+    "license": "MIT",
+    "ignore": [
+        ".*"
+    ]
+}
